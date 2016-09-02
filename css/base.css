@@ -16,20 +16,20 @@ body{
     font: 12px/1.5 "Open Sans",Arial,"Hiragino Sans GB","Microsoft YaHei","微软雅黑","STHeiti","WenQuanYi Micro Hei",SimSun,sans-serif;
     letter-spacing: 0.5px;
 }
-header .row .col-md-3{
+.header .row .col-md-3{
     padding-top: 5px;
 }
-header .row .col-md-6{
+.header .row .col-md-6{
     padding-top: 20px;
 }
-header .row .logo{
+.header .row .logo{
     font-size: 30px;
 }
-header{
+.header{
     background-color: white;
     text-align: center;
 }
-header a{
+.header a{
     display: inline-block;
     padding: 0 10px;
     line-height: 30px;
@@ -49,28 +49,24 @@ header a{
     margin: 30px 5px 0 0;
     width: 180px;
     height: 180px;
-    border: 1px black solid;
     float: left;
 }
 .container .layoutType .img2{
      margin: 30px 5px 0 0;
      width: 365px;
      height: 365px;
-     border: 1px black solid;
      float: left;
 }
 .container .layoutType .img3{
     margin: 30px 5px 0 0;
     width: 180px;
     height: 180px;
-    border: 1px black solid;
     float:left;
 }
 .container .layoutType .img4{
     margin: 5px 5px 0 0;
     width: 180px;
     height: 180px;
-    border: 1px black solid;
     float: left;
 }
 .container .layoutType .img5 {
@@ -78,14 +74,12 @@ header a{
     margin: 5px 1px 0 0;
     width: 180px;
     height: 365px;
-    border: 1px black solid;
     position: relative;
 }
 .container .layoutType .img6{
     margin: 5px 5px 0 0;
     width: 550px;
     height: 180px;
-    border: 1px black solid;
     position: relative;
     top:-90px;
 }
